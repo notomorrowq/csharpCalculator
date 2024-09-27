@@ -1,0 +1,14 @@
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/bin/Debug/net8.0/csharpCalculator
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/bin/Debug/net8.0/csharpCalculator.deps.json
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/bin/Debug/net8.0/csharpCalculator.runtimeconfig.json
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/bin/Debug/net8.0/csharpCalculator.dll
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/bin/Debug/net8.0/csharpCalculator.pdb
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/csharpCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/csharpCalculator.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/csharpCalculator.AssemblyInfo.cs
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/csharpCalculator.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/csharpCalculator.dll
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/refint/csharpCalculator.dll
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/csharpCalculator.pdb
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/csharpCalculator.genruntimeconfig.cache
+/Users/macbook/RiderProjects/csharpCalculator/csharpCalculator/obj/Debug/net8.0/ref/csharpCalculator.dll
